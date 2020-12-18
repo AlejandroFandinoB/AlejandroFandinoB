@@ -1,6 +1,7 @@
 ### Hola 👋, Me llamo Alejandro Fandiño
 #### Matemático, analista de datos y desarrollador full stack
-Actualmente estoy haciendo un posgrado en analítica de datos, me interesa el desarrollo web y los datos, y estoy en constante aprendizaje. 
+Actualmente estoy haciendo un posgrado en analítica de datos, me interesa el desarrollo web y los datos.
+Estoy en constante aprendizaje. 
 
 
 
