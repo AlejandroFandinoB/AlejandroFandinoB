@@ -1,6 +1,6 @@
 ### Hola 👋, Me llamo Alejandro Fandiño
 #### Matemático, analista de datos y desarrollador full stack
-Actualmente estoy haciendo el posgrado en analítica de datos, me interesa el desarrollo web y los datos, y estoy en constante aprendizaje. 
+Actualmente estoy haciendo un posgrado en analítica de datos, me interesa el desarrollo web y los datos, y estoy en constante aprendizaje. 
 
 
 
@@ -14,6 +14,6 @@ Habilidades: HTML/CSS/JavaScript/Boopstrap/Sass/Angular/Nodejs/Express/MongoDB/P
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroFandinoB)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/AlejandroFandinoB)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroFandinoB&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/AlejandroFandinoB)  
