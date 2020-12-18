@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola 👋, Me llamo Alejandro Fandiño
+#### Matemático, analista de datos y desarrollador full stack
+Actualmente estoy haciendo el posgrado en analítica de datos, me interesa el desarrollo web y los datos, y estoy en constante aprendizaje. 
 
-<!--
-**AlejandroFandinoB/AlejandroFandinoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: HTML/CSS/JavaScript/Boopstrap/Sass/Angular/Nodejs/Express/MongoDB/Python/R
+
+- 🌱 Estoy aprendiendo análisis de datos y desarrollo web 
+- 📫 Cómo contactarme: alejandrofandinob@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlejandroFandinoB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alejandro-fandi%C3%B1o-050a77201//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroFandinoB)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/AlejandroFandinoB)  
+
+![Profile views](https://gpvc.arturio.dev/AlejandroFandinoB)  
