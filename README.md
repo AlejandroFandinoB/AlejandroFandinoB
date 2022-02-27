@@ -1,9 +1,7 @@
 ### Hola 👋, Me llamo Alejandro Fandiño
 #### Matemático y analista de datos
 
-Matemático de profesión con posgrado en analitica de datos tengo experiencia como analista e ingeniero de datos. Me gusta las matemáticas y la estadistica junto a sus aplicaciones en el campo de los datos.
-
-
+Matemático de profesión con posgrado en analitica de datos tengo experiencia como analista e ingeniero de datos. 
 
 Habilidades:Python, R, Sql Server.
 
