@@ -1,13 +1,12 @@
 ### Hola 👋, Me llamo Alejandro Fandiño
 #### Matemático y analista de datos
-Actualmente estoy haciendo un posgrado en analítica de datos y tuve la oportunidad de participar en un bootcamp para desarrolladores.
-Estoy en constante aprendizaje. 
+
+Matemático de profesión con posgrado en analitica de datos tengo experiencia como analista e ingeniero de datos. Me gusta las matemáticas y la estadistica junto a sus aplicaciones en el campo de los datos.
 
 
 
-Habilidades: HTML/CSS/JavaScript/Boopstrap/Sass/Angular/Nodejs/Express/MongoDB/Python/R
+Habilidades:Python, R, Sql Server.
 
-- 🌱 Estoy aprendiendo análisis de datos y desarrollo web 
 - 📫 Cómo contactarme: alejandrofandinob@gmail.com 
 
 
